@@ -1,0 +1,12 @@
+/Users/shabanali/Desktop/Jenkins-dotnet/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.deps.json
+/Users/shabanali/Desktop/Jenkins-dotnet/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.json
+/Users/shabanali/Desktop/Jenkins-dotnet/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.dev.json
+/Users/shabanali/Desktop/Jenkins-dotnet/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.dll
+/Users/shabanali/Desktop/Jenkins-dotnet/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.pdb
+/Users/shabanali/Desktop/Jenkins-dotnet/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csprojAssemblyReference.cache
+/Users/shabanali/Desktop/Jenkins-dotnet/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csproj.CoreCompileInputs.cache
+/Users/shabanali/Desktop/Jenkins-dotnet/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfoInputs.cache
+/Users/shabanali/Desktop/Jenkins-dotnet/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfo.cs
+/Users/shabanali/Desktop/Jenkins-dotnet/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll
+/Users/shabanali/Desktop/Jenkins-dotnet/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb
+/Users/shabanali/Desktop/Jenkins-dotnet/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.genruntimeconfig.cache
